@@ -496,7 +496,7 @@ terraform init
 
 ## Additional Resources
 
-- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Terraform Azure Provider Documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Azure AI Landing Zone Pattern](https://github.com/Azure/AI-Landing-Zones)
 
